@@ -1,0 +1,149 @@
+{
+id: "51c75f7bb6f26ba1cd00002f",
+type:  {
+value: "feed"
+},
+entry:  [
+ {
+id: "5c12fe491cbd932b678e3d80",
+link:  {
+rel: "alternate",
+href: "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+type: "text/html"
+},
+
+
+
+
+type:  {
+value: "video"
+},
+
+
+
+title: "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+
+author:  {
+name: “PLUTO TV“
+},
+
+content:  {
+src: "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=vizio&appVersion=5.4.1-7d09ea221&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=0a4379c0-7463-11ea-831ce72e91f3a8b6&deviceLat=37.3512&deviceLon=-121.8846&deviceMake=vizio&deviceModel=na&deviceType=vizio&deviceVersion=%5E0.12.2&includeExtendedEvents=false&marketingRegion=US&sid=51a6c04b-1b05-42ff-bd59-45fb9ca892a2&userId=”,1
+type: "video/hls"
+},
+
+
+summary: “KidsShows · 149 Mins",
+updated: "2019-11-15T10:41:03+00:00",
+published: "2019-11-15T10:31:00+00:00",
+extensions:  
+
+
+
+{
+free: true,
+section: "JUST ADDED",
+duration: 9863
+},
+
+
+
+
+
+media_group:  [
+ {
+type: "image",
+media_item:  [
+ {
+key: "image_base",
+src: "https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png",
+type: "extern_image"
+}
+]
+}
+]
+},
+
+
+
+
+
+
+
+
+############################################
+
+
+
+
+
+
+
+
+
+{
+id: "5c12fe491cbd932b678e3d80",
+link:  {
+rel: "alternate",
+href: "https://www.themoviedb.org/tv/62688-supergirl?language=en-US",
+type: "text/html"
+},
+
+
+
+
+type:  {
+value: "video"
+},
+
+
+
+title: "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+
+author:  {
+name: “PLUTO TV“
+},
+
+content:  {
+src: "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8”,1
+type: "video/hls"
+},
+
+
+summary: "Action · 149 Mins",
+updated: "2019-11-15T10:41:03+00:00",
+published: "2019-11-15T10:31:00+00:00",
+extensions:  
+
+
+
+{
+free: true,
+section: "JUST ADDED",
+duration: 9863
+},
+
+
+
+
+
+media_group:  [
+ {
+type: "image",
+media_item:  [
+ {
+key: "image_base",
+src: "https://live.staticflickr.com/65535/49626471457_852ea340f5_o.jpg",
+type: "extern_image"
+}
+]
+}
+]
+},
+
+
+     ],
+title: "Testing feed",
+content: { },
+screen_type: ""
+}
